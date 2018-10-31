@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">F31_Controller</string>
+    <string name="activity_main_textview">識別碼</string>
+    <string name="activity_main_textview1">跳頻功能</string>
+    <string name="activity_main_textview2">頻道設定</string>
+    <string name="devicename">F31 Series</string>
+    <string name="copy">拷貝</string>
+    <string name="save">儲存</string>
+    <string name="open">開啟</string>
+    <string name="setting">設定</string>
+    <string name="write">寫入</string>
+    <string name="read">讀取</string>
+    <string name="activity_Message">必須開啟存取權限, 否則無法使用設定檔功能</string>
+
+    <string name="progressText">注意！\n請保持電量大於 50%</string>
+    <string name="splashScreen_checkbox_showhint">下次不再顯示</string>
+    <string name="splashScreen_tv_lowbattery">目前電量低於50%!!</string>
+    <string name="splashScreen_btn_keep">繼續使用</string>
+    <string name="splashScreen_btn_finish">退出程式</string>
+
+    <string name="UP">上</string>
+    <string name="DOWN">下</string>
+    <string name="LEFT">左</string>
+    <string name="RIGHT">右</string>
+    <string name="EAST">東</string>
+    <string name="WEST">西</string>
+    <string name="SOUTH">南</string>
+    <string name="NORTH">北</string>
+
+    <string name="act_opt_output_tv_open">開　關　鍵</string>
+    <string name="act_opt_output_tv_group">群　組　設　定</string>
+
+    <string name="CopyTitle">拷貝機模式</string>
+    <string name="CopyButton_read">讀取</string>
+    <string name="CopyButton_write">寫入</string>
+
+    <string name="ProgressBarTitle">進度</string>
+
+    <string name="is_not_directory">非資料夾</string>
+    <string name="can_not_read">無法讀取</string>
+
+    <string name="ui_dialog_btn_accept">確 認</string>
+    <string name="ui_dialog_btn_abort">略 過</string>
+    <string name="ui_dialog_btn_cancel">取 消</string>
+    <string name="ui_loading_view_tv">載入中...</string>
+
+    <string name="savefile">儲存設定檔</string>
+    <string name="openfile">開啟設定檔</string>
+    <string name="nofile">沒有設定檔</string>
+
+    <string name="MainActivity_Message1">請選擇一個設定檔</string>
+    <string name="MainActivity_Message2">開啟的設定檔內容不符合機種，請重新選擇.</string>
+    <string name="MainActivity_Message3">識別碼錯誤，請重新選擇.</string>
+    <string name="MainActivity_Message4">請選擇一個設定檔</string>
+    <string name="MainActivity_Message5">設定檔讀取失敗..</string>
+    <string name="MainActivity_Message6">找不到設定檔或設定檔損壞.</string>
+
+    <string name="SettingTitle">設定</string>
+
+    <string name="Fragment1_maubset_Group1_Name">遙控器選項</string>
+    <string name="Fragment1_maubset_Group2_Name">發射機功能選項</string>
+    <string name="Fragment1_maubset_Group3_Name">接收機功能選項</string>
+
+    <string name="Fragment1_maubset_child0_Name0">開機模式</string>
+    <string name="Fragment1_maubset_child0_Name1">發射模式</string>
+    <string name="Fragment1_maubset_child0_Name2">停用關機</string>
+    <string name="Fragment1_maubset_child0_Name3">接管與釋放</string>
+    <string name="Fragment1_maubset_child0_Name4">接管與釋放選項</string>
+
+    <string name="Fragment1_maubset_child1_Name0">LED燈號閃爍時間</string>
+    <string name="Fragment1_maubset_child1_Name1">發射功率</string>
+    <string name="Fragment1_maubset_child1_Name2">E卡拷貝功能</string>
+
+    <string name="Fragment1_maubset_child2_Name0">關/開機警報</string>
+    <string name="Fragment1_maubset_child2_Name1">停用關機</string>
+    <string name="Fragment1_maubset_child2_Name2">干擾動作</string>
+    <string name="Fragment1_maubset_child2_Name3">干擾忽略時間</string>
+</resources>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--跳頻功能-->
+    <string-array name="RadioMode">
+        <item>省電跳頻模式</item>
+        <item>標準跳頻模式</item>
+        <item>單一頻道模式</item>
+    </string-array>
+
+    <!--頻道設定-->
+    <string-array name="Channel">
+        <item>頻道群01</item>
+        <item>頻道群02</item>
+        <item>頻道群03</item>
+        <item>頻道群04</item>
+        <item>頻道群05</item>
+        <item>頻道群06</item>
+        <item>頻道群07</item>
+        <item>頻道群08</item>
+        <item>頻道群09</item>
+        <item>頻道群10</item>
+        <item>頻道群11</item>
+        <item>頻道群12</item>
+        <item>頻道群13</item>
+        <item>頻道群14</item>
+        <item>頻道群15</item>
+        <item>頻道群16</item>
+        <item>頻道群17</item>
+        <item>頻道群18</item>
+        <item>頻道群19</item>
+        <item>頻道群20</item>
+        <item>頻道群21</item>
+        <item>頻道群22</item>
+        <item>頻道群23</item>
+        <item>頻道群24</item>
+        <item>頻道群25</item>
+        <item>頻道群26</item>
+        <item>頻道群27</item>
+        <item>頻道群28</item>
+        <item>頻道群29</item>
+        <item>頻道群30</item>
+        <item>頻道群31</item>
+        <item>頻道群32</item>
+    </string-array>
+
+    <!--頻率-->
+    <string-array name="frequency" start="430.025" step="0.05" count="161">
+        <item>CH 001 (430.025MHz)</item>
+        <item>CH 002 (430.075MHz)</item>
+        <item>CH 003 (430.125MHz)</item>
+        <item>CH 004 (430.175MHz)</item>
+        <item>CH 005 (430.225MHz)</item>
+        <item>CH 006 (430.275MHz)</item>
+        <item>CH 007 (430.325MHz)</item>
+        <item>CH 008 (430.375MHz)</item>
+        <item>CH 009 (430.425MHz)</item>
+        <item>CH 010 (430.475MHz)</item>
+        <item>CH 011 (430.525MHz)</item>
+        <item>CH 012 (430.575MHz)</item>
+        <item>CH 013 (430.625MHz)</item>
+        <item>CH 014 (430.675MHz)</item>
+        <item>CH 015 (430.725MHz)</item>
+        <item>CH 016 (430.775MHz)</item>
+        <item>CH 017 (430.825MHz)</item>
+        <item>CH 018 (430.875MHz)</item>
+        <item>CH 019 (430.925MHz)</item>
+        <item>CH 020 (430.975MHz)</item>
+        <item>CH 021 (431.025MHz)</item>
+        <item>CH 022 (431.075MHz)</item>
+        <item>CH 023 (431.125MHz)</item>
+        <item>CH 024 (431.175MHz)</item>
+        <item>CH 025 (431.225MHz)</item>
+        <item>CH 026 (431.275MHz)</item>
+        <item>CH 027 (431.325MHz)</item>
+        <item>CH 028 (431.375MHz)</item>
+        <item>CH 029 (431.425MHz)</item>
+        <item>CH 030 (431.475MHz)</item>
+        <item>CH 031 (431.525MHz)</item>
+        <item>CH 032 (431.575MHz)</item>
+        <item>CH 033 (431.625MHz)</item>
+        <item>CH 034 (431.675MHz)</item>
+        <item>CH 035 (431.725MHz)</item>
+        <item>CH 036 (431.775MHz)</item>
+        <item>CH 037 (431.825MHz)</item>
+        <item>CH 038 (431.875MHz)</item>
+        <item>CH 039 (431.925MHz)</item>
+        <item>CH 040 (431.975MHz)</item>
+        <item>CH 041 (432.025MHz)</item>
+        <item>CH 042 (432.075MHz)</item>
+        <item>CH 043 (432.125MHz)</item>
+        <item>CH 044 (432.175MHz)</item>
+        <item>CH 045 (432.225MHz)</item>
+        <item>CH 046 (432.275MHz)</item>
+        <item>CH 047 (432.325MHz)</item>
+        <item>CH 048 (432.375MHz)</item>
+        <item>CH 049 (432.425MHz)</item>
+        <item>CH 050 (432.475MHz)</item>
+        <item>CH 051 (432.525MHz)</item>
+        <item>CH 052 (432.575MHz)</item>
+        <item>CH 053 (432.625MHz)</item>
+        <item>CH 054 (432.675MHz)</item>
+        <item>CH 055 (432.725MHz)</item>
+        <item>CH 056 (432.775MHz)</item>
+        <item>CH 057 (432.825MHz)</item>
+        <item>CH 058 (432.875MHz)</item>
+        <item>CH 059 (432.925MHz)</item>
+        <item>CH 060 (432.975MHz)</item>
+        <item>CH 061 (433.025MHz)</item>
+        <item>CH 062 (433.075MHz)</item>
+        <item>CH 063 (433.125MHz)</item>
+        <item>CH 064 (433.175MHz)</item>
+        <item>CH 065 (433.225MHz)</item>
+        <item>CH 066 (433.275MHz)</item>
+        <item>CH 067 (433.325MHz)</item>
+        <item>CH 068 (433.375MHz)</item>
+        <item>CH 069 (433.425MHz)</item>
+        <item>CH 070 (433.475MHz)</item>
+        <item>CH 071 (433.525MHz)</item>
+        <item>CH 072 (433.575MHz)</item>
+        <item>CH 073 (433.625MHz)</item>
+        <item>CH 074 (433.675MHz)</item>
+        <item>CH 075 (433.725MHz)</item>
+        <item>CH 076 (433.775MHz)</item>
+        <item>CH 077 (433.825MHz)</item>
+        <item>CH 078 (433.875MHz)</item>
+        <item>CH 079 (433.925MHz)</item>
+        <item>CH 080 (433.975MHz)</item>
+        <item>CH 081 (434.025MHz)</item>
+        <item>CH 082 (434.075MHz)</item>
+        <item>CH 083 (434.125MHz)</item>
+        <item>CH 084 (434.175MHz)</item>
+        <item>CH 085 (434.225MHz)</item>
+        <item>CH 086 (434.275MHz)</item>
+        <item>CH 087 (434.325MHz)</item>
+        <item>CH 088 (434.375MHz)</item>
+        <item>CH 089 (434.425MHz)</item>
+        <item>CH 090 (434.475MHz)</item>
+        <item>CH 091 (434.525MHz)</item>
+        <item>CH 092 (434.575MHz)</item>
+        <item>CH 093 (434.625MHz)</item>
+        <item>CH 094 (434.675MHz)</item>
+        <item>CH 095 (434.725MHz)</item>
+        <item>CH 096 (434.775MHz)</item>
+        <item>CH 097 (434.825MHz)</item>
+        <item>CH 098 (434.875MHz)</item>
+        <item>CH 099 (434.925MHz)</item>
+        <item>CH 100 (434.975MHz)</item>
+        <item>CH 101 (435.025MHz)</item>
+        <item>CH 102 (435.075MHz)</item>
+        <item>CH 103 (435.125MHz)</item>
+        <item>CH 104 (435.175MHz)</item>
+        <item>CH 105 (435.225MHz)</item>
+        <item>CH 106 (435.275MHz)</item>
+        <item>CH 107 (435.325MHz)</item>
+        <item>CH 108 (435.375MHz)</item>
+        <item>CH 109 (435.425MHz)</item>
+        <item>CH 110 (435.475MHz)</item>
+        <item>CH 111 (435.525MHz)</item>
+        <item>CH 112 (435.575MHz)</item>
+        <item>CH 113 (435.625MHz)</item>
+        <item>CH 114 (435.675MHz)</item>
+        <item>CH 115 (435.725MHz)</item>
+        <item>CH 116 (435.775MHz)</item>
+        <item>CH 117 (435.825MHz)</item>
+        <item>CH 118 (435.875MHz)</item>
+        <item>CH 119 (435.925MHz)</item>
+        <item>CH 120 (435.975MHz)</item>
+        <item>CH 121 (436.025MHz)</item>
+        <item>CH 122 (436.075MHz)</item>
+        <item>CH 123 (436.125MHz)</item>
+        <item>CH 124 (436.175MHz)</item>
+        <item>CH 125 (436.225MHz)</item>
+        <item>CH 126 (436.275MHz)</item>
+        <item>CH 127 (436.325MHz)</item>
+        <item>CH 128 (436.375MHz)</item>
+        <item>CH 129 (436.425MHz)</item>
+        <item>CH 130 (436.475MHz)</item>
+        <item>CH 131 (436.525MHz)</item>
+        <item>CH 132 (436.575MHz)</item>
+        <item>CH 133 (436.625MHz)</item>
+        <item>CH 134 (436.675MHz)</item>
+        <item>CH 135 (436.725MHz)</item>
+        <item>CH 136 (436.775MHz)</item>
+        <item>CH 137 (436.825MHz)</item>
+        <item>CH 138 (436.875MHz)</item>
+        <item>CH 139 (436.925MHz)</item>
+        <item>CH 140 (436.975MHz)</item>
+        <item>CH 141 (437.025MHz)</item>
+        <item>CH 142 (437.075MHz)</item>
+        <item>CH 143 (437.125MHz)</item>
+        <item>CH 144 (437.175MHz)</item>
+        <item>CH 145 (437.225MHz)</item>
+        <item>CH 146 (437.275MHz)</item>
+        <item>CH 147 (437.325MHz)</item>
+        <item>CH 148 (437.375MHz)</item>
+        <item>CH 149 (437.425MHz)</item>
+        <item>CH 150 (437.475MHz)</item>
+        <item>CH 151 (437.525MHz)</item>
+        <item>CH 152 (437.575MHz)</item>
+        <item>CH 153 (437.625MHz)</item>
+        <item>CH 154 (437.675MHz)</item>
+        <item>CH 155 (437.725MHz)</item>
+        <item>CH 156 (437.775MHz)</item>
+        <item>CH 157 (437.825MHz)</item>
+        <item>CH 158 (437.875MHz)</item>
+        <item>CH 159 (437.925MHz)</item>
+        <item>CH 160 (437.975MHz)</item>
+    </string-array>
+
+    <!--開機模式-->
+    <string-array name="BootMode">
+        <item>任意鍵開機</item>
+        <item>開機鍵開機</item>
+        <item>密碼開機</item>
+    </string-array>
+
+    <!--發射模式-->
+    <string-array name="LaunchMode">
+        <item>非持續發射</item>
+        <item>持續發射 30 秒關機</item>
+        <item>持續發射 1.0 分鐘關機</item>
+        <item>持續發射 1.5 分鐘關機</item>
+        <item>持續發射 2.0 分鐘關機</item>
+        <item>持續發射 3.0 分鐘關機</item>
+        <item>持續發射 5.0 分鐘關機</item>
+        <item>持續發射 10 分鐘關機</item>
+        <item>持續發射永不關機</item>
+    </string-array>
+
+    <!--距離開機-->
+    <string-array name="DistanceBoot">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--停用關機-->
+    <string-array name="DisableShutdown">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--接管與釋放-->
+    <string-array name="TakeOver_Release">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--接管與釋放選擇-->
+    <string-array name="TakeOver_ReleaseSelect">
+        <item>接收機</item>
+        <item>接收機#1</item>
+        <item>接收機#2</item>
+        <item>接收機#3</item>
+        <item>接收機#4</item>
+        <item>接收機#5</item>
+        <item>接收機#6</item>
+        <item>接收機#7</item>
+        <item>接收機#8</item>
+        <item>接收機#9</item>
+        <item>接收機#10</item>
+        <item>接收機#11</item>
+        <item>接收機#12</item>
+        <item>接收機#13</item>
+        <item>接收機#14</item>
+        <item>接收機#15</item>
+    </string-array>
+
+    <!--LED燈號閃爍時間-->
+    <string-array name="FlashingTime">
+        <item>0.0 秒</item>
+        <item>0.3 秒</item>
+        <item>0.5 秒</item>
+        <item>1.0 秒</item>
+        <item>2.0 秒</item>
+        <item>3.0 秒</item>
+        <item>4.0 秒</item>
+        <item>燈號關閉</item>
+    </string-array>
+
+    <!--發射功率-->
+    <string-array name="TransmitPower">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+        <item>微弱</item>
+    </string-array>
+
+    <!--e卡拷貝功能-->
+    <string-array name="E_Copy">
+        <item>無效</item>
+        <item>有效</item>
+    </string-array>
+
+    <!--開 / 關機警報-->
+    <string-array name="Alarm_ONOFF">
+        <item>關閉</item>
+        <item>開啟 2 秒</item>
+        <item>開啟 3 秒</item>
+        <item>開啟 4 秒</item>
+        <item>開啟 5 秒</item>
+        <item>開啟 6 秒</item>
+    </string-array>
+
+    <!--停用關機-->
+    <string-array name="DisableShutdown_time">
+        <item>不關機</item>
+        <item>30 秒</item>
+        <item>10 分鐘</item>
+        <item>20 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>4 小時</item>
+        <item>5 小時</item>
+        <item>6 小時</item>
+        <item>7 小時</item>
+        <item>8 小時</item>
+        <item>9 小時</item>
+    </string-array>
+
+    <!--干擾動作-->
+    <string-array name="InterferenceAction">
+        <item>被動急停關動作</item>
+        <item>被動急停關機</item>
+    </string-array>
+
+    <!--干擾忽略時間-->
+    <string-array name="InterferenceAction_time">
+        <item>0.5 秒</item>
+        <item>0.6 秒</item>
+        <item>0.7 秒</item>
+        <item>0.8 秒</item>
+        <item>0.9 秒</item>
+        <item>1.0 秒</item>
+        <item>1.5 秒</item>
+        <item>2.0 秒</item>
+        <item>3.0 秒</item>
+        <item>4.0 秒</item>
+    </string-array>
+
+    <!--功能選擇-->
+    <string-array name="FunctionSelection">
+        <item>Alarm</item>
+        <item>普通</item>
+        <item>奈跳</item>
+        <item>開／關</item>
+        <item>電磁鐵</item>
+        <item>普通寸動</item>
+        <item>奈跳寸動</item>
+        <item>開／關／開</item>
+        <item>液壓控制</item>
+    </string-array>
+
+    <!--急停選擇-->
+    <string-array name="EmergencyStop_Selection">
+        <item>受急停控制</item>
+        <item>不受急停控制</item>
+    </string-array>
+
+    <!--off 延遲-->
+    <string-array name="OFFDelay">
+        <item>0秒</item>
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--寸動-->
+    <string-array name="Inching">
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--幫浦開啟-->
+    <string-array name="PumpOpen">
+        <item>快15分</item>
+        <item>快10分</item>
+        <item>快 5分</item>
+        <item>快 3分</item>
+        <item>快 2分</item>
+        <item>快 1分</item>
+        <item>快50秒</item>
+        <item>快30秒</item>
+        <item>快10秒</item>
+        <item>快 5秒</item>
+        <item>快 3秒</item>
+        <item>快 2秒</item>
+        <item>快 1秒</item>
+        <item>快0.9秒</item>
+        <item>快0.8秒</item>
+        <item>快0.7秒</item>
+        <item>快0.6秒</item>
+        <item>快0.5秒</item>
+        <item>快0.4秒</item>
+        <item>快0.3秒</item>
+        <item>快0.2秒</item>
+        <item>快0.1秒</item>
+        <item>慢0.1秒</item>
+        <item>慢0.2秒</item>
+        <item>慢0.3秒</item>
+        <item>慢0.4秒</item>
+        <item>慢0.5秒</item>
+        <item>慢0.6秒</item>
+        <item>慢0.7秒</item>
+        <item>慢0.8秒</item>
+        <item>慢0.9秒</item>
+        <item>慢 1秒</item>
+        <item>慢 2秒</item>
+        <item>慢 3秒</item>
+        <item>慢 5秒</item>
+        <item>慢10秒</item>
+        <item>慢30秒</item>
+        <item>慢50秒</item>
+        <item>慢 1分</item>
+        <item>慢 2分</item>
+        <item>慢 3分</item>
+        <item>慢 5分</item>
+        <item>慢10分</item>
+        <item>慢15分</item>
+    </string-array>
+
+    <!--幫浦關閉-->
+    <string-array name="PumpClosed">
+        <item>快15分</item>
+        <item>快10分</item>
+        <item>快 5分</item>
+        <item>快 3分</item>
+        <item>快 2分</item>
+        <item>快 1分</item>
+        <item>快50秒</item>
+        <item>快30秒</item>
+        <item>快10秒</item>
+        <item>快 5秒</item>
+        <item>快 3秒</item>
+        <item>快 2秒</item>
+        <item>快 1秒</item>
+        <item>快0.9秒</item>
+        <item>快0.8秒</item>
+        <item>快0.7秒</item>
+        <item>快0.6秒</item>
+        <item>快0.5秒</item>
+        <item>快0.4秒</item>
+        <item>快0.3秒</item>
+        <item>快0.2秒</item>
+        <item>快0.1秒</item>
+        <item>慢0.1秒</item>
+        <item>慢0.2秒</item>
+        <item>慢0.3秒</item>
+        <item>慢0.4秒</item>
+        <item>慢0.5秒</item>
+        <item>慢0.6秒</item>
+        <item>慢0.7秒</item>
+        <item>慢0.8秒</item>
+        <item>慢0.9秒</item>
+        <item>慢 1秒</item>
+        <item>慢 2秒</item>
+        <item>慢 3秒</item>
+        <item>慢 5秒</item>
+        <item>慢10秒</item>
+        <item>慢30秒</item>
+        <item>慢50秒</item>
+        <item>慢 1分</item>
+        <item>慢 2分</item>
+        <item>慢 3分</item>
+        <item>慢 5分</item>
+        <item>慢10分</item>
+        <item>慢15分</item>
+        <item>不關閉</item>
+    </string-array>
+
+    <!--遙控器按鍵-->
+    <string-array name="ControlButton">
+        <item>停/STOP</item>
+        <item>開 警報/START ALARM</item>
+        <item>上/UP</item>
+        <item>下/DOWN</item>
+        <item>東/EAST</item>
+        <item>西/WEST</item>
+        <item>南/SOUTH</item>
+        <item>北/NORTH</item>
+    </string-array>
+
+    <!--抑制功能選擇-->
+    <string-array name="Suppression_Selection">
+        <item>普通抑制</item>
+        <item>奈跳抑制</item>
+        <item>群組奈跳抑制</item>
+        <item>普通-奈跳抑制</item>
+        <item>普通抑制(不中斷)</item>
+    </string-array>
+
+    <!--抑制延遲-->
+    <string-array name="SuppressionDelay">
+        <item>0.1秒</item>
+        <item>0.2秒</item>
+        <item>0.3秒</item>
+        <item>0.4秒</item>
+        <item>0.5秒</item>
+        <item>0.6秒</item>
+        <item>0.7秒</item>
+        <item>0.8秒</item>
+        <item>0.9秒</item>
+        <item>1.0秒</item>
+        <item>2.0秒</item>
+        <item>3.0秒</item>
+        <item>5.0秒</item>
+    </string-array>
+
+    <!--繼電器選項-->
+    <string-array name="RelayOption">
+        <item>上</item>
+        <item>下</item>
+        <item>東</item>
+        <item>西</item>
+        <item>南</item>
+        <item>北</item>
+        <item>開</item>
+    </string-array>
+</resources>
